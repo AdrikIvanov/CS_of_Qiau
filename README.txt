@@ -1,1 +1,1 @@
-AAb repository for computer science students of Qazvin Islamic Azad University.
+A repository for computer science students of Qazvin Islamic Azad University.
