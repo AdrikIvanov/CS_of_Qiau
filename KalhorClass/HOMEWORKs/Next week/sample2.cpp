@@ -9,7 +9,7 @@ int x[10],flag=0,i;
       cin >> x[i];
       cout << "result= ";
    for(i=0 ; i<=9 ; i++)
-      if(x[i]>100 && x[i]<1000){
+      if(x[i]>=100 && x[i]<1000){
          flag=1;
          cout <<x[i]<<" , ";}
       if(flag==0){
