@@ -1,5 +1,4 @@
-// Mohammad Mahdi Soleimani nia
-// Ostad kalhor
+// Mohammad Mahdi 
 #include <iostream>
 #include <conio.h>
 using namespace std;
