@@ -1,5 +1,10 @@
-#include <iostream>
+/*
 
+Enter a number : 20
+Result : 7
+
+*/
+#include <iostream>
 
 using namespace std;
 
