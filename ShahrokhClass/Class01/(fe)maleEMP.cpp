@@ -3,7 +3,7 @@
 
 using namespace std;
 
-const int EMP_NUM = 4;
+const int EMP_NUM = 50;
 
 struct Employee{
     string name;
